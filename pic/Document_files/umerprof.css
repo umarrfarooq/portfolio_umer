@@ -1,0 +1,43 @@
+.nav-item {
+  font-weight: bolder;
+}
+.navbar {
+  background-color: rgba(192, 133, 56, 0.585);
+}
+.text-overlay {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  transform: translate(-50%, -50%);
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+.over-para {
+  font-size: 11px;
+  font-family: "Libre Baskerville", serif;
+  letter-spacing: 2px;
+  text-align: left;
+}
+.over-heading {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: left;
+}
+.umer-name {
+  text-align: left;
+  font-family: "Archivo Black", sans-serif;
+  font-size: 60px;
+  font-weight: 100;
+}
+.btn-primary {
+  background-color: rgb(192, 133, 56);
+  border: 0;
+  border-radius: 0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+.btn-primary:hover {
+  background-color: rgb(206, 128, 2);
+  transition: 1s;
+}
